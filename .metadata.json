@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ipmr",
+    "oncran": true
+  },
+  {
+    "package": "spind",
+    "oncran": true
+  }
+]
